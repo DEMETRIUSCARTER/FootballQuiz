@@ -20,7 +20,7 @@ https://demetriuscarter.github.io/FootballQuiz/
 
 
 ## Technologies Used
-Visual studio Code
+Visual Studio Code
 
 
 ## Contact
