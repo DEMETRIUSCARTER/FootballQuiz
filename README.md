@@ -4,9 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-
 * [Contact](#contact)
 
 
