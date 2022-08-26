@@ -17,7 +17,7 @@ Football quiz generated using Javascript.
 
 
 
-https://demetriuscarter.github.io/PasswordGenerator/
+https://demetriuscarter.github.io/FootballQuiz/
 
 
 
